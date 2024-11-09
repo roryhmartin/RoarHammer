@@ -1,0 +1,6 @@
+@roarHammerBackend_HostAddress = http://localhost:5284
+
+GET {{roarHammerBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
